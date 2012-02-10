@@ -1,0 +1,19 @@
+{
+  "author": "John Resig",
+  "name": "jquery-browser",
+  "version": "1.7.1-1",
+  "homepage": "http://jquery.com/",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://jquery.org/license"
+    }
+  ],
+  "repository": {
+    "type":"git",
+    "url": "http://github.com/kapouer/jquery-browser.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
