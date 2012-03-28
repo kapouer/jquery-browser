@@ -3,3 +3,9 @@ This is the npm package for "jquery", a javascript browser library.
 jQuery script is provided uncompressed and unmodified.
 
 http://jquery.com
+
+It's now possible to do
+
+	require.resolve('jquery-browser');
+
+To get the path to the jquery.js file.
