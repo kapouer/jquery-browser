@@ -1,11 +1,7 @@
-This is the npm package for "jquery", a javascript browser library.
+This is the npm package of an uncompressed, unmodified, javascript library.
 
-jQuery script is provided uncompressed and unmodified.
+To get the path to this root directory :
 
-http://jquery.com
+	require.resolve('xxx-browser');
 
-It's now possible to do
-
-	require.resolve('jquery-browser');
-
-To get the path to the jquery.js file.
+where xxx is the name of that library.

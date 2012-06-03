@@ -2,7 +2,7 @@
   "author": "John Resig",
   "name": "jquery-browser",
   "description": "jquery npm package for browsers",
-  "version": "1.7.2-2",
+  "version": "1.7.2-3",
   "homepage": "http://jquery.com/",
   "licenses": [
     {
@@ -14,7 +14,7 @@
     "type":"git",
     "url": "http://github.com/kapouer/jquery-browser.git"
   },
-  "main": "./lib/jquery.js",
+  "main": "./index.js",
   "directories": {
     "javascripts": "./lib"
   }
